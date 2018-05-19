@@ -23,9 +23,9 @@ This course introduces students to microcontroller programming, electronics, and
 By the end of this course the student should be able to build and program basic microcontroller projects on the Arduino platform as well as have an understanding of physical interaction design. 
 
 ## Required Materials
+* [Elegoo Starter kit](https://www.amazon.com/Elegoo-Project-Starter-Tutorial-Arduino/dp/B01D8KOZF4/) (best value!)  
 * [MetroX kit](https://www.adafruit.com/product/3588) (recommended)
-* [Elegoo Starter kit](https://www.amazon.com/Elegoo-Project-Starter-Tutorial-Arduino/dp/B01D8KOZF4/) (good value)  
-* [ARDX kit from Tinkersphere](http://tinkersphere.com/boards/1443-ardx-arduino-kit-nyc.html) (can buy in person!) 
+* [ARDX kit from Tinkersphere](http://tinkersphere.com/boards/1443-ardx-arduino-kit-nyc.html) (can buy in person) 
 
 ### Suggested Tools
 * breadboards
@@ -99,7 +99,7 @@ The final project will demonstrate a large amount of time spent outside of class
 * **Must be functional - your project must work!**
 * Should be soldered- not using a breadboard
 * Should be novel
-* Must be [well documented](https://github.com/andydoro/IMA76700-MEDP34900_Spring2018/wiki/Documentation-Guidelines), including circuit diagrams and well-commented code
+* Must be [well documented](https://github.com/andydoro/IMA767_MEDP349_Fall2018/wiki/Documentation-Guidelines), including circuit diagrams and well-commented code
 * Explain your design processes
 
 ## Electronic Device Policy 
@@ -108,7 +108,7 @@ Cellphones and internet usage during class should only relate to relevant classr
 
 ## Food & Drink Policy
 
-Water, beverages, and small snacks are fine. There will be a small 15 minute break in the middle of class. 
+Water, beverages, and small snacks are fine. There will be a 15 minute break in the middle of class. 
 
 ## Academic Integrity
 
@@ -130,7 +130,7 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
 
 ## Weekly Schedule
 
-### Week 1, Jan 31 - Review Syllabus 
+### Week 1, August 29 - Review Syllabus 
 * what is:
   * physical computing
   * interactivity
@@ -138,12 +138,22 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
   * Arduino
     * Hello World
 
-### Week 2, Feb 7 - Arduino Basics
+### September 2 - Last day to drop for 75% tuition refund; Last day to add a class
+
+### Week 2, September 5 (Monday Schedule - no class)
+
+### September 9 - Last day to drop for 50% tuition refund
+
+### Week 3, September 12 - Arduino Basics
 * digital I/O
 * digital vs. analog
 * serial console
 
-### Week 3, Feb 14 - Electronics Basics
+### September 16 - Last day to drop without a grade of "W"
+
+### September 19 - No classes scheduled
+
+### Week 4, September 26 - Electronics Basics
 * basic circuit
 * components
 * schematics
@@ -153,9 +163,7 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
   * Ohm’s Law
 * ICs
 
-### Feb 16 - Last day to drop without a grade of "W"
-
-### Week 4, Feb 21 - Programming Interaction & Analog I/O
+### Week 5, October 3 - Programming Interaction & Analog I/O
 * programming interaction
   * variables
   * conditionals (if, else)
@@ -165,17 +173,17 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
   * pulse width modulation
   * tone
 
-### Week 5, Feb 28 - Iteration
+### Week 6, October 10 - Iteration
 * for/while loops
 * arrays
 * functions
 
-### Week 6, Mar 7 - Serial Communication
+### Week 7, October 17 - Serial Communication
 * asynchronous communication
 * I2C, SPI
 * wireless communication
 
-### Week 7, Mar 14 - Midterm Project Proposals & High Current Loads
+### Week 8, October 24 - Midterm Project Proposals & High Current Loads
 * motors
   * DC motor
   * servo
@@ -183,30 +191,41 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
 * solenoids
 * transistors / relays
 
-### Week 8, Mar 21 - Midterm Project User Testing & Better Prototyping Techniques
+### Week 9, October 31 - Midterm Project User Testing & Better Prototyping Techniques
 * soldering
 * shields
 * wiring
 * connectors
 * enclosures & panel mount components
 
-### Week 9, Mar 28 - Midterm Project Presentations
+### Week 10, November 7 - Midterm Project Presentations
 
-### Spring Recess, Mar 30 - Apr 8
+### November 6 - Last day to withdraw from a course with a grade of "W"
 
-### Week 10, Apr 11 (Friday Schedule - no class)
+### Week 11, November 14 - Final Project Proposal
 
-### April 16 - Last day to withdraw from a course with a grade of "W"
+### Week 12, November 21 - Final Project Concept Discussion
 
-### Week 11, April 18 - Final Project Proposal
+### Week 13, November 28 - Final Project Prototype
 
-### Week 12, April 25 - Final Project Concept Discussion
+### Fall Recess, November 22-25
 
-### Week 13, May 2 - Final Project Prototype
+### Week 14, December 5 - Final Project User Testing
 
-### Week 14, May 9 - Final Project User Testing
+### Week 15, December 12 - Final Project Presentations
 
-### Week 15, May 16 - Final Project Presentations
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
