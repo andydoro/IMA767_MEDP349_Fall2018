@@ -4,6 +4,7 @@
 ## What is physical computing?
 
 * [Tom Igoe's answer](http://www.tigoe.com/blog/what-is-physical-computing/)
+* [Amos Bloomberg's answer](https://knowledge.kitchen/What_is_physical_computing)
 
 ## What are microcontrollers?
 
