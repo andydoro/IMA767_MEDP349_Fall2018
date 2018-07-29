@@ -3,7 +3,7 @@
 IMA 76700 / MEDP 34900  
 Wednesday, 7.00pm - 9.40pm  
 Fall Semester, August 29 - December 12  
-Hunter North Building, Room TBA
+Hunter North, Room 470
 
 ## Contact Information
 
@@ -23,6 +23,7 @@ This course introduces students to microcontroller programming, electronics, and
 By the end of this course the student should be able to build and program basic microcontroller projects on the Arduino platform as well as have an understanding of physical interaction design. 
 
 ## Required Materials
+* [Exploring Arduino by Jeremy Blum](https://www.exploringarduino.com/) (available at the Hunter Bookstore!)
 * [Elegoo Starter kit](https://www.amazon.com/Elegoo-Project-Starter-Tutorial-Arduino/dp/B01D8KOZF4/) (best value!)  
 * [MetroX kit](https://www.adafruit.com/product/3588) (recommended)
 * [ARDX kit from Tinkersphere](http://tinkersphere.com/boards/1443-ardx-arduino-kit-nyc.html) (can buy in person) 
@@ -41,11 +42,12 @@ It is likely that you will need additional materials depending on the nature of 
 
 
 ### Software
-[Arduino IDE](https://www.arduino.cc/en/Main/Software)  
+[Arduino IDE](https://www.arduino.cc/en/Main/Software) 
+[GitHub](https://github.com/) -
+used for posting code and homework assignments 
 [Fritzing](http://fritzing.org/home/) - 
 used for documenting electronics projects  
-[GitHub](https://github.com/) -
-used for posting code and homework assignments
+
 
 ### Required Reading
 [Exploring Arduino by Jeremy Blum](https://www.exploringarduino.com/)   
