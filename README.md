@@ -29,12 +29,12 @@ By the end of this course the student should be able to build and program basic 
 * [ARDX kit from Tinkersphere](http://tinkersphere.com/boards/1443-ardx-arduino-kit-nyc.html) (can buy in person) 
 
 ### Suggested Tools
+* multimeter
 * breadboards
 * wire strippers
 * diagonal cutters
 * 22-AWG solid core hook-up wire, various colors
 * 9V DC 1A power supply
-* multimeter
 * soldering iron
 * solder (lead free recommended)
 
@@ -83,10 +83,9 @@ Documentation of your work is required for all physical assignments. Refer to th
 
 ## Grading
 
-* Assignments: 20%
-* Attendance and Participation: 30%
-* Midterm Project: 20%
-* Final Project: 30%
+* Assignments: 30%
+* Attendance and Participation: 35%
+* Final Project: 35%
 
 ### Midterm Project
 
@@ -215,16 +214,6 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
 ### Week 14, December 5 - Final Project User Testing
 
 ### Week 15, December 12 - Final Project Presentations
-
-
-
-
-
-
-
-
-
-
 
 
 
