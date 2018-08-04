@@ -31,9 +31,9 @@ By the end of this course the student should be able to build and program basic 
 ### Suggested Tools
 * multimeter
 * breadboards
+* 22-AWG solid core hook-up wire, various colors
 * wire strippers
 * diagonal cutters
-* 22-AWG solid core hook-up wire, various colors
 * 9V DC 1A power supply
 * soldering iron
 * solder (lead free recommended)
@@ -77,29 +77,24 @@ Participation means:
 
 This is a production heavy class. If you do not have your own computer, you will be able to access the labs outside of class. Rooms HN432 & HN478 also have computers with the relevant software installed.
 
-You must post assignments to the [class homework page](https://github.com/andydoro/IMA767_MEDP349_Fall2018/wiki/Homework) before class. Bring your work to class each week and be prepared to talk about it. For each week an assignment is late, 10 points will be deducted from its grade.
+You must post assignments to the [class homework page](https://github.com/andydoro/IMA767_MEDP349_Fall2018/wiki/Homework) on the following **Tuesday, 11pm** before class. Bring your work to class each week and be prepared to talk about it. For each week an assignment is late, 10 points will be deducted from its grade.
 
 Documentation of your work is required for all physical assignments. Refer to the [documentation guidelines](https://github.com/andydoro/IMA767_MEDP349_Fall2018/wiki/Documentation-Guidelines).
 
 ## Grading
 
-* Assignments: 30%
+* Assignments: 35%
 * Attendance and Participation: 35%
-* Final Project: 35%
-
-### Midterm Project
-
-* Make an interactive system that can keep a user engaged with your system 
-* The midterm project will be worked on in pairs assigned by the instructor
-* **Your project must be functional**
+* Final Project: 30%
 
 ### Final Project
 
 The final project will demonstrate a large amount of time spent outside of class, though we will also spend a significant portion of the last weeks of class dedicated to the completion of this project. As such, it is expected to be more technically and critically engaging. 
 
 * **Must be functional - your project must work!**
-* Should be soldered- not using a breadboard
+* Make an interactive system that can keep a user engaged with your system 
 * Should be novel
+* Should be soldered- not using a breadboard
 * Must be [well documented](https://github.com/andydoro/IMA767_MEDP349_Fall2018/wiki/Documentation-Guidelines), including circuit diagrams and well-commented code
 * Explain your design processes
 
@@ -137,7 +132,7 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
   * interactivity
   * a microcontroller
   * Arduino
-    * Hello World
+    * "Hello World"
 
 ### September 2 - Last day to drop for 75% tuition refund; Last day to add a class
 
@@ -145,16 +140,7 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
 
 ### September 9 - Last day to drop for 50% tuition refund
 
-### Week 3, September 12 - Arduino Basics
-* digital I/O
-* digital vs. analog
-* serial console
-
-### September 16 - Last day to drop without a grade of "W"
-
-### September 19 - No classes scheduled
-
-### Week 4, September 26 - Electronics Basics
+### Week 3, September 12 - Electronics Basics
 * basic circuit
 * components
 * schematics
@@ -163,6 +149,15 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
 * voltage, current, resistance
   * Ohm’s Law
 * ICs
+
+### September 16 - Last day to drop without a grade of "W"
+
+### September 19 - No classes scheduled
+
+### Week 4, September 26 - Arduino Basics
+* digital I/O
+* digital vs. analog
+* serial console
 
 ### Week 5, October 3 - Programming Interaction & Analog I/O
 * programming interaction
@@ -184,7 +179,7 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
 * I2C, SPI
 * wireless communication
 
-### Week 8, October 24 - Midterm Project Proposals & High Current Loads
+### Week 8, October 24 - High Current Loads
 * motors
   * DC motor
   * servo
@@ -192,29 +187,28 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
 * solenoids
 * transistors / relays
 
-### Week 9, October 31 - Midterm Project User Testing & Better Prototyping Techniques
+### Week 9, October 31 - Better Prototyping Techniques
 * soldering
 * shields
 * wiring
 * connectors
 * enclosures & panel mount components
 
-### Week 10, November 7 - Midterm Project Presentations
+### Week 10, November 7 - Final Project Proposal
 
 ### November 6 - Last day to withdraw from a course with a grade of "W"
 
-### Week 11, November 14 - Final Project Proposal
+### Week 11, November 14 - Final Project Concept Discussion
 
-### Week 12, November 21 - Final Project Concept Discussion
-
-### Week 13, November 28 - Final Project Prototype
+### Week 12, November 21 -
 
 ### Fall Recess, November 22-25
+
+### Week 13, November 28 - Final Project Prototype
 
 ### Week 14, December 5 - Final Project User Testing
 
 ### Week 15, December 12 - Final Project Presentations
-
 
 
 
