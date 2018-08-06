@@ -133,6 +133,7 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
   * a microcontroller
   * Arduino
     * "Hello World"
+  * Blum, Ch. 1
 
 ### September 2 - Last day to drop for 75% tuition refund; Last day to add a class
 
@@ -158,6 +159,7 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
 * digital I/O
 * digital vs. analog
 * serial console
+* Blum, Ch. 2-3
 
 ### Week 5, October 3 - Programming Interaction & Analog I/O
 * programming interaction
@@ -173,11 +175,13 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
 * for/while loops
 * arrays
 * functions
+* Blum, Ch. 7
 
 ### Week 7, October 17 - Serial Communication
 * asynchronous communication
 * I2C, SPI
 * wireless communication
+* Blum, Ch. 8-9
 
 ### Week 8, October 24 - High Current Loads
 * motors
@@ -186,6 +190,7 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
   * stepper
 * solenoids
 * transistors / relays
+* Blum, Ch. 4
 
 ### Week 9, October 31 - Better Prototyping Techniques
 * soldering
