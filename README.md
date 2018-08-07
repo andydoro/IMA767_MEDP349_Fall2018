@@ -199,7 +199,10 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
 * connectors
 * enclosures & panel mount components
 
-### Week 10, November 7 - Final Project Proposal
+### Week 10, November 7 - Final Project Proposal / Wireless
+* electromagnetic spectrum
+* network topologies
+* radio, Xbee, Bluetooth, WiFi, GSM
 
 ### November 6 - Last day to withdraw from a course with a grade of "W"
 
