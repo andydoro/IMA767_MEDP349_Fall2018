@@ -77,7 +77,7 @@ Participation means:
 
 This is a production heavy class. If you do not have your own computer, you will be able to access the labs outside of class. Rooms HN432 & HN478 also have computers with the relevant software installed.
 
-You must post assignments to the [class homework page](https://github.com/andydoro/IMA767_MEDP349_Fall2018/wiki/Homework) on the following **Tuesday, 11pm** before class. Bring your work to class each week and be prepared to talk about it. For each week an assignment is late, 10 points will be deducted from its grade.
+You must post assignments to the [class homework page](https://github.com/andydoro/IMA767_MEDP349_Fall2018/wiki/Homework) on the **following Tuesday, 11pm** before class. Bring your work to class each week and be prepared to talk about it. For each week an assignment is late, 10 points will be deducted from its grade.
 
 Documentation of your work is required for all physical assignments. Refer to the [documentation guidelines](https://github.com/andydoro/IMA767_MEDP349_Fall2018/wiki/Documentation-Guidelines).
 
@@ -203,6 +203,7 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
 * electromagnetic spectrum
 * network topologies
 * radio, Xbee, Bluetooth, WiFi, GSM
+* Blum, Ch. 11, 14
 
 ### November 6 - Last day to withdraw from a course with a grade of "W"
 
