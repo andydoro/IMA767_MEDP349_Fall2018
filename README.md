@@ -137,11 +137,11 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
 
 ### September 2 - Last day to drop for 75% tuition refund; Last day to add a class
 
-### Week 2, September 5 (Monday Schedule - no class)
+### September 5 (Monday Schedule - no class)
 
 ### September 9 - Last day to drop for 50% tuition refund
 
-### Week 3, September 12 - Electronics Basics
+### Week 2, September 12 - Electronics Basics
 * basic circuit
 * components
 * schematics
@@ -155,13 +155,13 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
 
 ### September 19 - No classes scheduled
 
-### Week 4, September 26 - Arduino Basics
+### Week 3, September 26 - Arduino Basics
 * digital I/O
 * digital vs. analog
 * serial console
 * Blum, Ch. 2-3
 
-### Week 5, October 3 - Programming Interaction & Analog I/O
+### Week 4, October 3 - Programming Interaction & Analog I/O
 * programming interaction
   * variables
   * conditionals (if, else)
@@ -171,19 +171,19 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
   * pulse width modulation
   * tone
 
-### Week 6, October 10 - Iteration
+### Week 5, October 10 - Iteration
 * for/while loops
 * arrays
 * functions
 * Blum, Ch. 7
 
-### Week 7, October 17 - Serial Communication
+### Week 6, October 17 - Serial Communication
 * asynchronous communication
 * I2C, SPI
 * wireless communication
 * Blum, Ch. 8-9
 
-### Week 8, October 24 - High Current Loads
+### Week 7, October 24 - High Current Loads
 * motors
   * DC motor
   * servo
@@ -192,32 +192,32 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
 * transistors / relays
 * Blum, Ch. 4
 
-### Week 9, October 31 - Better Prototyping Techniques
+### Week 8, October 31 - Better Prototyping Techniques
 * soldering
 * shields
 * wiring
 * connectors
 * enclosures & panel mount components
 
-### Week 10, November 7 - Final Project Proposal / Wireless
+### November 6 - Last day to withdraw from a course with a grade of "W"
+
+### Week 9, November 7 - Final Project Proposal / Wireless
 * electromagnetic spectrum
 * network topologies
 * radio, Xbee, Bluetooth, WiFi, GSM
 * Blum, Ch. 11, 14
 
-### November 6 - Last day to withdraw from a course with a grade of "W"
+### Week 10, November 14 - Final Project Concept Discussion
 
-### Week 11, November 14 - Final Project Concept Discussion
-
-### Week 12, November 21 -
+### Week 11, November 21 - Final Projects Workshop
 
 ### Fall Recess, November 22-25
 
-### Week 13, November 28 - Final Project Prototype
+### Week 12, November 28 - Final Project Prototype
 
-### Week 14, December 5 - Final Project User Testing
+### Week 13, December 5 - Final Project User Testing
 
-### Week 15, December 12 - Final Project Presentations
+### Week 14, December 12 - Final Project Presentations
 
 
 
