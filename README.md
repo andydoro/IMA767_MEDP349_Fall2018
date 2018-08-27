@@ -192,7 +192,9 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
 * transistors / relays
 * Blum, Ch. 4
 
-### Week 8, October 31 - Better Prototyping Techniques
+### Week 8, October 31 - Libraries, Functions and Better Prototyping Techniques
+* using libraries
+* creating your own functions
 * soldering
 * shields
 * wiring
