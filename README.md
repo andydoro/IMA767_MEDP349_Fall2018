@@ -44,7 +44,7 @@ It is likely that you will need additional materials depending on the nature of 
 ### Software
 [Arduino IDE](https://www.arduino.cc/en/Main/Software) 
 [GitHub](https://github.com/) -
-used for posting code and homework assignments 
+used for posting code and homework assignments   
 [Fritzing](http://fritzing.org/home/) - 
 used for documenting electronics projects  
 
