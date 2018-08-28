@@ -9,6 +9,7 @@
 ## What are microcontrollers?
 
 * [You Are Already Living Inside a Computer](https://www.theatlantic.com/technology/archive/2017/09/you-are-already-living-inside-a-computer/539193/)
+* [Microcontrollers... how do they work?](https://learn.adafruit.com/mcus-how-do-they-work/)
 
 ## What is Arduino?
 
