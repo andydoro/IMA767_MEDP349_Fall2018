@@ -25,7 +25,7 @@ By the end of this course the student should be able to build and program basic 
 ## Required Materials
 * [Exploring Arduino by Jeremy Blum](https://www.exploringarduino.com/) (available at the Hunter Bookstore!)
 * [Elegoo Starter kit](https://www.amazon.com/Elegoo-Project-Starter-Tutorial-Arduino/dp/B01D8KOZF4/) (best value!)  
-* [MetroX kit](https://www.adafruit.com/product/3588) (recommended)
+* [MetroX kit](https://www.adafruit.com/product/3588) (another option)
 * [ARDX kit from Tinkersphere](http://tinkersphere.com/boards/1443-ardx-arduino-kit-nyc.html) (can buy in person) 
 
 ### Suggested Tools
@@ -75,7 +75,9 @@ Participation means:
 
 ## Assignments
 
-This is a production heavy class. If you do not have your own computer, you will be able to access the labs outside of class. Rooms HN432 & HN478 also have computers with the relevant software installed.
+This is a production heavy class. If you do not have your own computer, you will be able to access the labs outside of class. Rooms HN470 & HN478 also have computers with the relevant software installed.  
+
+Some equipment such as multimeters and soldering irons are available to borrow from the equipment room at HN435 although you may consider investing in purchasing your own tools.  
 
 You must post assignments to the [class homework page](https://github.com/andydoro/IMA767_MEDP349_Fall2018/wiki/Homework) on the **following Tuesday, 11pm** before class. Bring your work to class each week and be prepared to talk about it. For each week an assignment is late, 10 points will be deducted from its grade.
 
@@ -143,12 +145,12 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
 
 ### Week 2, September 12 - Electronics Basics
 * basic circuit
+* voltage, current, resistance
+  * Ohm’s Law
 * components
 * schematics
 * breadboards
 * multimeter
-* voltage, current, resistance
-  * Ohm’s Law
 * ICs
 
 ### September 16 - Last day to drop without a grade of "W"
