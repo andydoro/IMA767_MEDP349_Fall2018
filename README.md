@@ -55,9 +55,9 @@ used for documenting electronics projects
 [Arduino Reference](https://www.arduino.cc/reference/en/)
 
 ## Optional Reading
-[Getting Started in Electronics by Forrest M. Mims III](https://www.adafruit.com/product/517)
-[Programming Arduino by Simon Monk](https://www.adafruit.com/product/1019)  
-[Programming Design Systems by Rune Madsen](https://programmingdesignsystems.com/)  
+[Getting Started in Electronics by Forrest M. Mims III](https://www.adafruit.com/product/517)   
+[Programming Arduino by Simon Monk](https://www.adafruit.com/product/1019)   
+[Programming Design Systems by Rune Madsen](https://programmingdesignsystems.com/)   
 
 
 ## Attendance and Participation
