@@ -3,7 +3,7 @@
 IMA 76700 / MEDP 34900  
 Wednesday, 7.00pm - 9.40pm  
 Fall Semester, August 29 - December 12  
-Hunter North, Room 470
+Hunter North, Room 432
 
 ## Contact Information
 
