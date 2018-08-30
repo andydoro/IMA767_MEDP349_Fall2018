@@ -106,7 +106,7 @@ Cellphones and internet usage during class should only relate to relevant classr
 
 ## Food & Drink Policy
 
-Water, beverages, and small snacks are fine. There will be a 15 minute break in the middle of class. 
+Since our class is in a computer lab food and drink are not allowed. There will be a 15 minute break in the middle of class. 
 
 ## Academic Integrity
 
