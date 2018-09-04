@@ -1,5 +1,11 @@
 # Week 2
 
+## History of Electricity
+
+* [Thales of Miletus](https://www.awesomestories.com/asset/view/Thales-of-Miletus-Discovers-Static-Electricity)
+* [Electricity Timeline](http://galileoandeinstein.physics.virginia.edu/more_stuff/E&M_Hist.html)
+* [Wikipedia: War of the Currents](https://en.wikipedia.org/wiki/War_of_the_currents)
+
 ## Electronics Tutorials
 
 * [Electricity: The Basics](https://itp.nyu.edu/physcomp/lessons/electronics/electricity-the-basics/)
