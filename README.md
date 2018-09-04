@@ -161,6 +161,10 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
 * digital I/O
 * digital vs. analog
 * serial console
+* analog I/O
+  * ADC
+  * pulse width modulation
+  * tone
 * Blum, Ch. 2-3
 
 ### Week 4, October 3 - Programming Interaction & Analog I/O
@@ -168,10 +172,6 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
   * variables
   * conditionals (if, else)
   * datatypes
-* analog I/O
-  * ADC
-  * pulse width modulation
-  * tone
 
 ### Week 5, October 10 - Iteration
 * for/while loops
