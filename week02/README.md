@@ -4,6 +4,7 @@
 
 * [Thales of Miletus](https://www.awesomestories.com/asset/view/Thales-of-Miletus-Discovers-Static-Electricity)
 * [Electricity Timeline](http://galileoandeinstein.physics.virginia.edu/more_stuff/E&M_Hist.html)
+* [Wikipedia: Leyden jar](https://en.wikipedia.org/wiki/Leyden_jar)
 * [Wikipedia: War of the Currents](https://en.wikipedia.org/wiki/War_of_the_currents)
 
 ## Electronics Tutorials
