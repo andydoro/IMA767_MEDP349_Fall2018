@@ -6,6 +6,7 @@
 * [Electricity Timeline](http://galileoandeinstein.physics.virginia.edu/more_stuff/E&M_Hist.html)
 * [Wikipedia: Leyden jar](https://en.wikipedia.org/wiki/Leyden_jar)
 * [Wikipedia: War of the Currents](https://en.wikipedia.org/wiki/War_of_the_currents)
+* [Wired: 50 Years of LEDs](https://www.wired.com/2012/10/the-history-of-led/)
 
 ## Electronics Tutorials
 
