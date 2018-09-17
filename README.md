@@ -47,7 +47,8 @@ It is likely that you will need additional materials depending on the nature of 
 used for posting code and homework assignments   
 [Fritzing](http://fritzing.org/home/) - 
 used for documenting electronics projects  
-[TinkerCAD Circuits](https://www.tinkercad.com/circuits)
+[TinkerCAD Circuits](https://www.tinkercad.com/circuits) -
+Arduino and electronics simulator
 
 
 ### Required Reading
