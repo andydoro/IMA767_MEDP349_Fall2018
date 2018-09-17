@@ -17,6 +17,10 @@
 * [Scanimate on Sesame Street](https://www.youtube.com/watch?v=-9fn2tBnh9I)
 
 
+## Analog Electronics
+* Antonin Fourneau – [Water Light Graffiti](https://vimeo.com/80781439) - [prototypes](https://www.youtube.com/watch?v=Ch-gYF1v3ls)
+
+
 ## Analog Computers
 * [Wikipedia: Analog Computers](https://en.wikipedia.org/wiki/Analog_computer) 
 * [Not Your Father's Analog Computer](https://spectrum.ieee.org/computing/hardware/not-your-fathers-analog-computer)
