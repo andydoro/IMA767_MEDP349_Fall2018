@@ -35,3 +35,9 @@
 * [Analog Input](https://vimeo.com/album/2801639/video/86551311)
 * [Analog Ouput](https://vimeo.com/album/2801639/video/93554355)
 * [Arduino Tutorial: Tone Melody](https://www.arduino.cc/en/Tutorial/ToneMelody?from=Tutorial.Tone)
+
+## Etc
+
+* [This Is Colossal: Urs Fischer, Play](https://www.thisiscolossal.com/2018/09/play-urs-fischer/)
+* [Rickroll prank](https://cornellsun.com/2017/11/10/hundreds-rickrolled-in-mysterious-campus-prank-at-cornell/)
+* [Defcon artistic badges](https://motherboard.vice.com/en_us/article/vbne9a/a-history-of-badgelife-def-cons-unlikely-obsession-with-artistic-circuit-boards)
