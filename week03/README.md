@@ -35,6 +35,8 @@
 * [Analog Input](https://vimeo.com/album/2801639/video/86551311)
 * [Analog Ouput](https://vimeo.com/album/2801639/video/93554355)
 * [Arduino Tutorial: Tone Melody](https://www.arduino.cc/en/Tutorial/ToneMelody?from=Tutorial.Tone)
+* [Pull Up Resistor](https://learn.sparkfun.com/tutorials/pull-up-resistors)
+* [Arduino Pin Functions](https://itp.nyu.edu/physcomp/lessons/microcontrollers/microcontroller-pin-functions/)
 
 ## Etc
 
