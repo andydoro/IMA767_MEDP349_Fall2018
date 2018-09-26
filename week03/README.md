@@ -28,9 +28,9 @@
 
 ## Arduino tutorials
 
-* [Digital Input Video Tutorial](https://vimeo.com/album/2801639/video/86548673)
 * [Arduino Tutorial: PWM](https://www.arduino.cc/en/Tutorial/PWM)
 * [Secrets of Arduino Pulse Width Modulation](https://www.arduino.cc/en/Tutorial/SecretsOfArduinoPWM) 
+* [Arduino: Button Tutorial](https://www.arduino.cc/en/Tutorial/Button)
 * [Digital Input](https://vimeo.com/album/2801639/video/86548673)
 * [Analog Input](https://vimeo.com/album/2801639/video/86551311)
 * [Analog Ouput](https://vimeo.com/album/2801639/video/93554355)
