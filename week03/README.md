@@ -28,7 +28,7 @@
 
 ## Arduino tutorials
 
-* [Arduino Tutorial: PWM](https://www.arduino.cc/en/Tutorial/PWM)
+* [Arduino: PWM](https://www.arduino.cc/en/Tutorial/PWM)
 * [Secrets of Arduino Pulse Width Modulation](https://www.arduino.cc/en/Tutorial/SecretsOfArduinoPWM) 
 * [Arduino: Button Tutorial](https://www.arduino.cc/en/Tutorial/Button)
 * [Digital Input](https://vimeo.com/album/2801639/video/86548673)
