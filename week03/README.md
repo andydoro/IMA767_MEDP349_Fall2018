@@ -37,6 +37,7 @@
 * [Arduino Tutorial: Tone Melody](https://www.arduino.cc/en/Tutorial/ToneMelody?from=Tutorial.Tone)
 * [Pull Up Resistor](https://learn.sparkfun.com/tutorials/pull-up-resistors)
 * [Arduino Pin Functions](https://itp.nyu.edu/physcomp/lessons/microcontrollers/microcontroller-pin-functions/)
+* [Potentiometers](https://learn.adafruit.com/make-it-change-potentiometers)
 
 ## Etc
 
