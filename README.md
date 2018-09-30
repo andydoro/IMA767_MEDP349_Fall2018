@@ -59,6 +59,7 @@ Arduino and electronics simulator
 ## Optional Reading
 [Getting Started in Electronics by Forrest M. Mims III](https://www.adafruit.com/product/517)   
 [Programming Arduino by Simon Monk](https://www.adafruit.com/product/1019)   
+[Elegoo Uno R3 Super Starter Kit](https://www.elegoo.com/tutorial/Elegoo%20Super%20Starter%20Kit%20for%20UNO%20V1.0.2018.09.20.zip)  
 [Programming Design Systems by Rune Madsen](https://programmingdesignsystems.com/)   
 
 
