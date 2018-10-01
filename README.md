@@ -86,6 +86,12 @@ You must post assignments to the [class homework page](https://github.com/andydo
 
 Documentation of your work is required for all physical assignments. Refer to the [documentation guidelines](https://github.com/andydoro/IMA767_MEDP349_Fall2018/wiki/Documentation-Guidelines).
 
+## Physical Computing Lab
+
+Room: HN478
+Hours: M-F 9am-9pm, Sat 10:30am-3:30pm  
+Access: Go to Peter Jackson's office HN435 to get the door open  
+
 ## Grading
 
 * Assignments: 35%

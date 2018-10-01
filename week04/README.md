@@ -9,6 +9,11 @@
 * [Sparkfun - How to Solder](https://learn.sparkfun.com/tutorials/how-to-solder-through-hole-soldering)
 * [ITP: Soldering](https://itp.nyu.edu/physcomp/labs/labs-electronics/soldering/)
 
+### Prototyping
+
+* [Tom Igoe on Tidy Prototyping](https://vimeo.com/album/2801639/video/79552841)
+* [Aaron Parsekian - Soldering and Basic Electrical Connections](https://docs.google.com/presentation/d/1UOkkmp-rG4KamoGg5B7QhcEgvLW795xyDUVsphElkrE/edit#slide=id.g1389c4ab8d_0_0)
+* [Perma Protos](https://learn.adafruit.com/breadboards-for-beginners/perma-protos)
 
 ## Batteries
 
