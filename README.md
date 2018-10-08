@@ -191,6 +191,7 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
 ### Week 6, October 17 - Serial Communication
 * asynchronous communication
 * I2C, SPI
+* using libraries
 * wireless communication
 * Blum, Ch. 8-9
 
@@ -208,7 +209,6 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
 ### November 6 - Last day to withdraw from a course with a grade of "W"
 
 ### Week 9, November 7 - Final Project Proposal / Libraries, Functions and Better Prototyping Techniques
-* using libraries
 * creating your own functions
 * soldering
 * shields
