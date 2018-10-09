@@ -5,6 +5,7 @@
 * [Tutorial: Arrays](https://www.arduino.cc/en/Tutorial/Arrays)
 * [Arrays](https://vimeo.com/101360989)
 * [CIRC02: 8 LED Fun](https://learn.adafruit.com/experimenters-guide-for-metro/circ02-intro)
+* [Arduino: string](https://www.arduino.cc/reference/en/language/variables/data-types/string/)
 * [For Loop Iteration](https://www.arduino.cc/en/Tutorial/ForLoopIteration)
 * [Defining New Functions](https://www.arduino.cc/en/Reference/FunctionDeclaration)
 * [Arduino Libraries](https://learn.adafruit.com/adafruit-all-about-arduino-libraries-install-use/)
