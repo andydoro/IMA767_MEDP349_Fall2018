@@ -10,6 +10,7 @@
 * [For Loop Iteration](https://www.arduino.cc/en/Tutorial/ForLoopIteration)
 * [Defining New Functions](https://www.arduino.cc/en/Reference/FunctionDeclaration)
 * [Arduino Libraries](https://learn.adafruit.com/adafruit-all-about-arduino-libraries-install-use/)
+* [ShiftOut Tutorial](https://www.arduino.cc/en/Tutorial/ShiftOut)
 
 ## Examples
 
