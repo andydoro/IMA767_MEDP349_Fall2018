@@ -14,5 +14,9 @@
 * [Video: Synchronous Serial - Intro](https://vimeo.com/111224388)
 * [Video: Synchronous Serial - I2C](https://vimeo.com/111239036)
 * [I2C Addresses](https://learn.adafruit.com/i2c-addresses)
+* [Serial: Standalone Device](https://vimeo.com/99026988)
 
+## In Class
 
+* [Robo Face](https://github.com/adafruit/Adafruit_LED_Backpack/blob/master/examples/roboface/roboface.pde)
+* [BME280 breakout](https://learn.adafruit.com/adafruit-bme280-humidity-barometric-pressure-temperature-sensor-breakout)
