@@ -15,7 +15,9 @@
 ### Relays & Transistors
 
 * [Transistors, Relays, & High Current Loads](https://itp.nyu.edu/physcomp/lessons/electronics/transistors-relays-and-controlling-high-current-loads/)
+* [Motors & Transitors Labs](https://itp.nyu.edu/physcomp/labs/motors-and-transistors/)
 * [High Current Loads](https://vimeo.com/107910898)
+* [Relays](https://vimeo.com/107911595)
 * [Transistors](https://vimeo.com/90287403)
 * [Transistors: NPN](https://vimeo.com/111212691)
 * [H-Bridges](https://vimeo.com/album/2801639/video/100357623)
@@ -38,6 +40,7 @@
 ## Code Examples
 
 * [blink_relay](https://gist.github.com/andydoro/df08b21b93d7cbb29eba3b3fec2a13c2)
+* [DC Motor Example](https://gist.github.com/andydoro/12343fdc06c10b01f6920c2469297d38)
 * [analogFeedbackServo](https://gist.github.com/andydoro/11f84a56b2ed2a0de921d85b8e681ec5)
 * [stepperAnnualClock](https://gist.github.com/andydoro/efec482a90b7398e3754cc49fdc72e30)
 
