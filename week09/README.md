@@ -7,7 +7,7 @@
 * [λν=c](https://www.khanacademy.org/science/physics/light-waves/introduction-to-light-waves/a/light-and-the-electromagnetic-spectrum)
 * [Network Topologies](https://en.wikipedia.org/wiki/Network_topology)
 * [NYC Mesh](https://nycmesh.net/map/)
-* [Brooklyn Pirate Radio Map](https://www.pirateradiomap.com/)
+* [Brooklyn Pirate Radio Map](https://map.pirateradiomap.com/)
 * [Adafruit - Wireless](https://www.adafruit.com/category/112)
 
 ### Videos
