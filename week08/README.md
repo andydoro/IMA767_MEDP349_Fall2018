@@ -1,0 +1,5 @@
+# Week 7
+
+## HAPPY HALLOWEEN!
+![HAPPY HALLOWEEN!](./halloween.jpg "HAPPY HALLOWEEN!")
+
