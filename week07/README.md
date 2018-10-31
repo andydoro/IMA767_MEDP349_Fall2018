@@ -39,6 +39,8 @@
 * [Ralf Baecker - Interface I](http://www.rlfbckr.org/work/interface-i/)
 * [Cod.Act - πTon/2](https://www.youtube.com/watch?v=S5Y0jk1nTcw)
 * [Ingvar Cronhamer - Elia](https://elia.dk/en/)
+* [Simone Giertz - Breakfast Machine](https://www.youtube.com/watch?v=E2evC2xTNWg)
+* [Knife-Wielding Tentacle](https://www.youtube.com/watch?v=pQ2dI_B_Ycg)
 
 ## Code Examples
 
