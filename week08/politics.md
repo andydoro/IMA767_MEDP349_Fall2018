@@ -1,3 +1,4 @@
+# Politics & Art
 
 ## Art Examples
 
@@ -21,7 +22,12 @@
 
 ## Readings
 
-* [Culture Jamming](https://en.wikipedia.org/wiki/Culture_jamming)
+* [Mark Dery - Culture Jamming](http://markdery.com/?page_id=154)
 * [The ABC of Tactical Media](http://www.tacticalmediafiles.net/articles/3160)
+* [Critical Art Ensemble - Electronic Civil Disobedience](http://critical-art.net/books/ecd/ecd2.pdf)
+* [Critical Art Ensemble - Framing Tactical Media](http://www.tacticalmediafiles.net/articles/3162/CAE_-Framing-Tactical-Media)
+* [Critical Art Ensemble - Contestational Robots](http://www.tacticalmediafiles.net/articles/3224/Contestational-Robotics)
+* [Yes Men - Cookbook](http://www.theyesmen.org/cookbook)
 * [Data & Society](https://datasociety.net/)
+* [DEFCON Voting Village - 11 Year Old Hacks into US Voting System in 10 Minutes](http://time.com/5366171/11-year-old-hacked-into-us-voting-system-10-minutes/)
 
