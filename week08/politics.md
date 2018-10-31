@@ -9,6 +9,8 @@
 * [Harriet Tubman Stamp](https://tubmanstamp.com/)
 * [Ji Lee - Abstractor TV](https://www.youtube.com/watch?v=SPoNxgZi0Us)
 * [Graffiti Research Lab](http://graffitiresearchlab.com/)
+* [John Heartfield](https://www.johnheartfield.com/John-Heartfield-Exhibition/john-heartfield-art/political-posters-sale)
+* [Ernst Friedrich - Krieg dem Kriege](https://thecharnelhouse.org/2014/07/10/ernst-friedrich-war-against-war-1924/)
 * [Jenny Holzer - Anti-Gun Truck](http://projects.jennyholzer.com/anti-gun-truck)
 * [Yes Men - Yes Lab](http://www.theyesmen.org/)
 * [Banksy](http://www.banksy.co.uk/)
