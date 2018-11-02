@@ -30,5 +30,6 @@
 * [Critical Art Ensemble - Contestational Robots](http://www.tacticalmediafiles.net/articles/3224/Contestational-Robotics)
 * [danah boyd - Hacking the Attention Economy](https://points.datasociety.net/hacking-the-attention-economy-9fa1daca7a37)
 * [Yes Men - Cookbook](http://www.theyesmen.org/cookbook)
+* [Adjacent - Bodies & Borders](https://itp.nyu.edu/adjacent/issue-4/)
 * [DEFCON Voting Village - 11 Year Old Hacks into US Voting System in 10 Minutes](http://time.com/5366171/11-year-old-hacked-into-us-voting-system-10-minutes/)
 
