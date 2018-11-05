@@ -13,9 +13,11 @@
 ### Videos
 * [Wireless - Overview](https://vimeo.com/112812248)
 * [Wireless - Bluetooth](https://vimeo.com/112813081)
+* [Collin's Lab - Bluetooth LE](https://www.youtube.com/watch?v=ItV08vGqACM)
 * [Wireless - Zigbee](https://vimeo.com/112813498)
 * [Wireless - WiFi](https://vimeo.com/112814089)
 * [Wireless - GSM](https://vimeo.com/112814755)
+* [Collin's Lab - RFID](https://www.youtube.com/watch?v=VpEVkiMU18s)
 
 ### Art Examples
 
