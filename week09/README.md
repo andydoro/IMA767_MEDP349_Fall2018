@@ -24,6 +24,7 @@
 * [Mouna Andraos - Address](https://softcircuit.wordpress.com/2009/03/02/address-by-mouna-andraos-e-textiles-hacking-and-diy/)
 * [Satellite Lamps](http://kairos.technorhetoric.net/19.1/inventio/martinussen-et-al/)
 * [Soner Ozenc - El Sajjadah](http://www.sonerozenc.com/product/el-sajjadah)
+* [E-Waste Tracker](https://www.pbs.org/newshour/science/america-e-waste-gps-tracker-tells-all-earthfix)
 * [Cildo Meireles - Babel](https://www.tate.org.uk/art/artworks/meireles-babel-t14041)
 * [Zach Lieberman - Play the World](https://devart.withgoogle.com/#/project/15870625?q=play%20the%20world)
 * [Cell Phone Disco](http://www.cellphonedisco.org/)
