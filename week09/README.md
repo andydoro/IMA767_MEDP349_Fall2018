@@ -37,7 +37,6 @@
 * [Cildo Meireles - Babel](https://www.tate.org.uk/art/artworks/meireles-babel-t14041)
 * [Zach Lieberman - Play the World](https://devart.withgoogle.com/#/project/15870625?q=play%20the%20world)
 * [Cell Phone Disco](http://www.cellphonedisco.org/)
-* [Table for Electronic Dreams](https://andydoro.com/table/)
 * [David Mellis - DIY Cellphone](http://alumni.media.mit.edu/~mellis/cellphone/)
 * [Arduin-o-phone](https://learn.adafruit.com/arduin-o-phone-arduino-powered-diy-cellphone/)
 * [Zach Gage - Glaciers](https://www.artsy.net/article/artsy-brooklyn-artist-zach-gage-freezes-the-internet-in-glaciers)
