@@ -8,7 +8,7 @@
 * [Ji Lee - Abstractor TV](https://www.youtube.com/watch?v=SPoNxgZi0Us)
 * [Graffiti Research Lab](http://graffitiresearchlab.com/)
 * [John Heartfield](https://www.johnheartfield.com/John-Heartfield-Exhibition/john-heartfield-art/political-posters-sale)
-* [Ernst Friedrich - Krieg dem Kriege](https://thecharnelhouse.org/2014/07/10/ernst-friedrich-war-against-war-1924/)
+* [Ernst Friedrich - Krieg dem Kriege](https://thecharnelhouse.org/2014/07/10/ernst-friedrich-war-against-war-1924/) ("War Against Wars") - **warning, violent content**
 * [Jenny Holzer - Anti-Gun Truck](http://projects.jennyholzer.com/anti-gun-truck)
 * [EBN - Comply](https://www.youtube.com/watch?v=Bjg6Dwn8shA)
 * [Yes Men - Yes Lab](http://www.theyesmen.org/)
