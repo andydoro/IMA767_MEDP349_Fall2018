@@ -24,6 +24,7 @@
 ### Reading
 
 * [Using Wi-Fi to "see" behind closed doors](https://www.technologyreview.com/s/612375/using-wi-fi-to-see-behind-closed-doors-is-easier-than-anyone-thought/)
+* [Craig Baldwin - Spectres of the Spectrum](http://www.othercinema.com/archive/sosynopsis.html)
 
 ### Art Examples
 
@@ -38,6 +39,7 @@
 * [Cildo Meireles - Babel](https://www.tate.org.uk/art/artworks/meireles-babel-t14041)
 * [Zach Lieberman - Play the World](https://devart.withgoogle.com/#/project/15870625?q=play%20the%20world)
 * [Scanner - South Bank Show](https://www.youtube.com/watch?v=Yfuat21E_dg)
+* [Ladyada - Wave Bubble](http://www.ladyada.net/make/wavebubble/)
 * [Cell Phone Disco](http://www.cellphonedisco.org/)
 * [David Mellis - DIY Cellphone](http://alumni.media.mit.edu/~mellis/cellphone/)
 * [Arduin-o-phone](https://learn.adafruit.com/arduin-o-phone-arduino-powered-diy-cellphone/)
