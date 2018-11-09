@@ -34,6 +34,7 @@
 
 * [Using Wi-Fi to "see" behind closed doors](https://www.technologyreview.com/s/612375/using-wi-fi-to-see-behind-closed-doors-is-easier-than-anyone-thought/)
 * [Craig Baldwin - Spectres of the Spectrum](http://www.othercinema.com/archive/sosynopsis.html)
+* [Microwave Weapons Are Prime Suspect in Ills of U.S. Embassy Workers](https://www.nytimes.com/2018/09/01/science/sonic-attack-cuba-microwave.html)
 
 ### Art Examples
 
