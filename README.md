@@ -209,18 +209,18 @@ CUNY Policy on Sexual Misconduct Link: [http://www.cuny.edu/about/administration
 ### November 6 - Last day to withdraw from a course with a grade of "W"
 
 ### Week 9, November 7 - Final Project Proposal / Libraries, Functions and Better Prototyping Techniques
-* electromagnetic spectrum
-* network topologies
-* radio, Xbee, Bluetooth, WiFi, GSM
-* Blum, Ch. 11, 14
-
-### Week 10, November 14 - Final Project Concept Discussion / Wireless
 * creating your own functions
 * soldering
 * shields
 * wiring
 * connectors
 * enclosures & panel mount components
+
+### Week 10, November 14 - Final Project Concept Discussion / Wireless
+* electromagnetic spectrum
+* network topologies
+* radio, Xbee, Bluetooth, WiFi, GSM
+* Blum, Ch. 11, 14
 
 ### Week 11, November 21 - Final Projects Workshop
 
