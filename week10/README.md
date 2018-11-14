@@ -50,7 +50,7 @@
 * [Light Painting WiFi](https://www.designboom.com/design/immaterials-light-painting-wifi-by-timo-arnall-jorn-knutsen-einar-sneve-martinussen/)
 * [Richard Box - Field](http://www.interactivearchitecture.org/richard-box.html)
 * [Dunne & Raby - Compass Table](http://www.dunneandraby.co.uk/content/books/90/0)
-* [Christina Kubisch - Electical Walks](https://vimeo.com/54846163)
+* [Christina Kubisch - Electrical Walks](https://vimeo.com/54846163)
 * [Cell Phone Disco](http://www.cellphonedisco.org/)
 
 #### Cellphones
