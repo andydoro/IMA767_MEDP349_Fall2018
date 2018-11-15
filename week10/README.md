@@ -9,7 +9,7 @@
 * [NYC Mesh](https://nycmesh.net/map/)
 * [Things Network](https://www.thethingsnetwork.org/map)
 * [Brooklyn Pirate Radio Map](https://map.pirateradiomap.com/)
-* [Number Stations: The Conet Project](http://freemusicarchive.org/music/The_Conet_Project/)
+* [Number Stations: The Conet Project](https://freemusicarchive.org/music/The_Conet_Project/The_Conet_Project/)
 * [Adafruit - Wireless](https://www.adafruit.com/category/112)
 
 ### Presentation 
