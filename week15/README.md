@@ -2,6 +2,7 @@
 
 
 * [How To Be An Artist](https://www.vulture.com/2018/11/jerry-saltz-how-to-be-an-artist.html)
+* [Good Documentation Habits](https://itp.nyu.edu/physcomp/itp/syllabus/journals-documentation/)
 * [How To Choose a Microcontroller](https://learn.adafruit.com/how-to-choose-a-microcontroller)
 * [Learn Raspberry Pi](https://learn.adafruit.com/series/learn-raspberry-pi)
 * [Tom Igoe on Tidy Prototyping](https://vimeo.com/album/2801639/video/79552841)
