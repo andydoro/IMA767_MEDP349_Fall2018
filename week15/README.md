@@ -11,3 +11,4 @@
 * [Collin's Lab: Desoldering](https://www.youtube.com/watch?v=N_dvf45hN6Y)
 * [Using EagleCAD](https://learn.sparkfun.com/tutorials/using-eagle-schematic/all)
 * [Package Thief vs. Glitter Bomb Trap](https://www.youtube.com/watch?v=xoxhDk-hwuo)
+* [Dano vids](https://www.dropbox.com/sh/2g1y46bn49pgnbj/AADyWlE7fnqGvfvHJnRl1bXda?dl=0)
