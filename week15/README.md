@@ -10,3 +10,4 @@
 * [Laser Cut Enclosure Design](https://learn.adafruit.com/laser-cut-enclosure-design)
 * [Collin's Lab: Desoldering](https://www.youtube.com/watch?v=N_dvf45hN6Y)
 * [Using EagleCAD](https://learn.sparkfun.com/tutorials/using-eagle-schematic/all)
+* [Package Thief vs. Glitter Bomb Trap](https://www.youtube.com/watch?v=xoxhDk-hwuo)
